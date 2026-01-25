@@ -102,13 +102,6 @@ With **400+ LeetCode problems solved** and **9 coding badges including Knight an
 
 ---
 
-## 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shankar-irla&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
-
----
 
 ## 📈 Activity Graph  
 
@@ -118,13 +111,6 @@ With **400+ LeetCode problems solved** and **9 coding badges including Knight an
 
 ---
 
-## 🌌 3D Contribution Calendar  
-
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=shankar-irla&theme=dark"/>
-</p>
-
----
 
 ## 🐍 Contribution Snake Animation  
 
