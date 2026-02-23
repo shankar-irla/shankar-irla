@@ -18,7 +18,7 @@ I am a **Software Engineering Aspirant** passionate about building **scalable, d
 
 I have a deep interest in **Cloud Computing, Software Development, and AI-driven technologies**. Selected for the **Google Cloud Career Launchpad Program**, I am building hands-on expertise in **Google Cloud Platform (GCP)** while strengthening my programming skills in **C, C++, Java, and Python**.
 
-With **400+ LeetCode problems solved** and **9 coding badges including Knight and 200-day streak**, I demonstrate strong proficiency in **Data Structures and Algorithms**. I bring a strong problem-solving mindset, solid CS fundamentals, and proven leadership & communication skills through hackathons and technical events. I am driven to build **production-ready real-world solutions** and continuously upskill to stay aligned with industry standards.
+With **400+ LeetCode problems solved** and **9 coding badges including Knight and 365-day streak**, I demonstrate strong proficiency in **Data Structures and Algorithms**. I bring a strong problem-solving mindset, solid CS fundamentals, and proven leadership & communication skills through hackathons and technical events. I am driven to build **production-ready real-world solutions** and continuously upskill to stay aligned with industry standards.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284077-5e5a4f0d-60b3-4fd0-a93c-7b9d20dfe3f8.gif" width="500">
